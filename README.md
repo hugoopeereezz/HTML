@@ -6,7 +6,7 @@ Este repositorio será utilizado para aprender más a fondo sobre GitHub para fi
 - Proyectos de páginas web.
 - Documentación técnica.
 ## Tecnologías utilizadas
--HTML5.
--JavaScript.
+- HTML5.
+- JavaScript.
 ## Autor 
 Hugo Pérez González
