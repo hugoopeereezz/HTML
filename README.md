@@ -7,5 +7,6 @@ Este repositorio será utilizado para aprender más a fondo sobre GitHub para fi
 - Documentación técnica.
 ## Tecnologías utilizadas
 -HTML5.
+-JavaScript
 ## Autor 
 Hugo Pérez González
